@@ -79,6 +79,9 @@ V = \frac{2 \pi \cdot A \cdot NA}{\lambda} = 4.91
 \frac{V^2}{2} = \frac{(4.91)^2}{2} \approx 12.05
 \]
 
+## OBSERVATION AND CALCULATIONS
+![WhatsApp Image 2026-01-31 at 8 31 12 AM](https://github.com/user-attachments/assets/d35ccbda-0505-41ba-9937-e81958a35dd7)
+
 ---
 
 # Result
